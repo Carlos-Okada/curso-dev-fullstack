@@ -1,0 +1,19 @@
+body {
+    background: rgb(245, 226, 241);
+}
+
+p {
+    color: rgb(32, 32, 32);
+}
+
+.foto-principal{
+width: 150px;
+ border: 5px solid  rgb(225, 198, 241);  /*nome dessa funcao chama shothand */
+ border-radius: 50%;
+ /*podendo ser escrito e posso ver por ai dessa maneira 
+ boder-width: 5px
+ boder-color: black
+ boder-style: groove
+ note que eu usei uma linha para simplificar tudo, mas pode aparecer por ai alguem que faça tudo por etapa que tbm é valido*/
+ 
+}

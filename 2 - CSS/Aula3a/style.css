@@ -1,0 +1,11 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;   */
+    background-position: center center;
+    background-size: cover;
+    /* sao tudo oque eu posso fazer 
+}
+    
+p {
+    color: rgb(32, 32, 32);

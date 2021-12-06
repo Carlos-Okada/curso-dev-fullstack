@@ -1,0 +1,16 @@
+body{
+    background-image: url(matrix.jpg); 
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%; consigo usar assim para colocar a imagem onde quero, usando porcentagem */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+
+
+
+}
+    
+
+p {
+    color: rgb(34, 34, 34)_;
+}
